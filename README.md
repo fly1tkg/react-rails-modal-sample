@@ -10,8 +10,9 @@ yarn
 rails s
 ```
 
-http://localhost:3000/foo
+open http://localhost:3000/foo
 
-主な実装部分
-app/javascript/components/ModalButton.js
-app/views/foo/index.html
+### 主な実装部分
+
+* [app/javascript/components/ModalButton.js](./app/javascript/components/ModalButton.js)
+* [app/views/foo/index.html.erb](./app/views/foo/index.html.erb)
